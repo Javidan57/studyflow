@@ -49,6 +49,8 @@ University students often manage several courses at once, with deadlines scatter
 | **`shared_preferences`** | Local storage for basic app settings |
 | **Local notifications** (package to be decided) | Deadline and timer reminders |
 
+Improvements to the UI are in the works, buttons for the Pomodoro timer will have text for indication and identification.
+
 **--- Our project is designed to work without a backend, cloud database, user accounts, or external APIs ---**
 
 ## Team Members
