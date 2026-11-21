@@ -61,6 +61,13 @@ Improvements to the UI are in the works, buttons for the Pomodoro timer will hav
 | **Javidan Gasimli** | GitHub repository setup, collaborators, Flutter `.gitignore`, and make the initial commit |
 | **Alimert Demirel** | README.md (title, description, group details) and the App Overview section of the proposal |
 
+| Member | Step 2 Responsibilities |
+| --- | --- |
+| **Nazim Mammadov** | Project setup, shared theme files, models and placeholder data, reusable widgets and validators, Welcome, Log in, Sign up, Home, and the bottom navigation. |
+| **Javidan Gasimli** | Tasks list, Add/Edit Task form, Task Details and Study History. |
+| **Alimert Demirel** | Courses grid, Add/Edit Course form, Course Details, Focus Timer and Settings. |
+
+
 ## Potential Challenges
 
 During development, we expect to encounter some technical challenges:
