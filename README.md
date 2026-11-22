@@ -82,7 +82,7 @@ During development, we expect to encounter some technical challenges:
 ## Repository
 
 [StudyFlow on GitHub](https://github.com/Javidan57/studyflow)
-> **Project status:** Proposal and building. The features described are planned.
+> **Project status:** Developing through Step 2. The features described are being built.
 
 
 ---
