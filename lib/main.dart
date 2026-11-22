@@ -1,9 +1,7 @@
-﻿import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
+
+import 'app.dart';
 
 void main() {
-  runApp(
-    const MaterialApp(
-      home: Scaffold(body: Center(child: Text('StudyFlow'))),
-    ),
-  );
+  runApp(const StudyFlowApp());
 }
